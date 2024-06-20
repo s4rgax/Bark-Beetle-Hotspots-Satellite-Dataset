@@ -1,0 +1,4 @@
+# Czech Republic
+A collection of Sentinel-1 and Sentinel-2 images for bark beetle outbreak detection in September 2020. Images concenr 200 non-overlapping scenes in the Czech Republic. The ground truth maps of the outbreaks polygons were recorded in DEFID2 database (https://publications.jrc.ec.europa.eu/repository/handle/JRC134202) . 
+
+Satellite images were monthly downloaded through  both the Google Earth Engine between May 2020 and September 2020 using the EPSG:3857 projection. Sentinel-2 images are spanned across 12 bands (B1,B2,B3,B4,B5,B6,B7,B8,B8A,B9,B11,B12) and SCL, Sentinel-1 images are spanned across two bands (VV and VH).

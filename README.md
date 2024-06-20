@@ -1,5 +1,10 @@
-# Bark Beetle Hotspots Satellite Dataset
-Repository containing satellite data, Sentinel 1 and Sentinel 2 data, for Bark Beetle hotspots infestation detection.
+# SWIFTT - Bark Beetle Outbreak Detection Satellite Dataset
+Repository containing two satellite datasets 
+created for bark beetle outbreak detection in 
+satellite (Sentinel-1 and Sentinel-2) images. 
+The two datasets refer to scenes observed in the Northeast of France and Czech Republic, respectively.
 
-## France
-A collection of 87 Sentinel-1 and Sentinel-2 images for bark beetle outbreak detection in October 2018. Images regard non-overlapping scenes in the Northeast of France. The ground truth maps of the outbreaks polygons were created by SERTIT and made available in the project SWIFTT by WildSense. Satellite images were monthly downloaded through  both the  Microsoft Planetary platform and  the Google Earth Engine between May 2018 and October 2018 using the EPSG:3857 projection
+The two datasets were prepared 
+in partial fulfillment 
+of the research objectives of the SWIFTT (Satellites for Wilderness Inspection and Forest Threat Tracking) project funded by European Union
+under Grant Agreement 101082732 (https://swiftt.eu)

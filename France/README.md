@@ -1,0 +1,4 @@
+# France
+A collection of Sentinel-1 and Sentinel-2 images for bark beetle outbreak detection in October 2018. Images concern 92 non-overlapping scenes in the Northeast of France: 87 scenes were labeled in October 2018, 1 scene was labeled in Septemebr 2019,  1 scene was labeled in February 2020, 1 scene was labeled in March 2020 and 2 images were labeled in May 2020. The ground truth maps of the outbreaks polygons were created by SERTIT and made available in the project SWIFTT by WildSense. 
+
+Satellite images were monthly downloaded through  both the  Microsoft Planetary platform and  the Google Earth Engine between May 2018 and October 2018 using the EPSG:3857 projection for 87 scenes labeled in October and in the month when the ground truth was acquired in the remaining scenes. Sentinel-2 images are spanned across 12 bands (B1,B2,B3,B4,B5,B6,B7,B8,B8A,B9,B11,B12) and SCL, Sentinel-1 images are spanned across two bands (VV and VH).
